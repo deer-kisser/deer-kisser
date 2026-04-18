@@ -1,9 +1,11 @@
 <div id="header" align="left">
-𓆝 𓆟 𓆞 𓆝 𓆟
+࣪ ִֶָ☾. 𝘬 𝘪 𝘴 𝘴     𝘮 𝘺     𝘥 𝘦 𝘦 𝘳 .   .   . ᶻ 𝗓 𐰁 .ᐟ
 
 
 <div id="header" align="right">
-- i told u go away.
+i told u go away. -
+</a>
+<img src="https://psv4.userapi.com/s/v1/d2/dBhDMEORYpvSRGomh5zN7wu4nGtsqc31hGf2t2mBN-twL1YtyyDrn6s3p1gZBYxOYrITiaPBmZVhv-RRFti5rpy1EBhKPSzUkysWCN3JhrGmzRO4OduBweulzEVHjukrDO0x_ERUB_a1/snep_35EBAB2.png" width="100"/>
 
 
 <div id="header" align="center">
