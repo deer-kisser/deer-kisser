@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-⊹ ࣪ ˖જ⁀➴
+⋆˚₊ 𖤓☽˚.⋆
 
 
 <div id="header" align="right">
